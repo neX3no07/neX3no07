@@ -1,7 +1,5 @@
 ## Hey there 👋
 
-Hey there! 👋
-
 I'm **neX3no**, a GameDev enthusiast based in Uzbekistan.
 
 I create worlds and mechanics, turning ideas into playable experiences.
