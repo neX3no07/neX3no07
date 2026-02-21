@@ -17,5 +17,5 @@ My current primary focus is **C# Backend Development**. I am actively leveling u
 * **Sports:** Basketball.
 * **Gaming:** Life is Strange.
 * **Hobbies:** Anime, manga, reading (currently: *The Book Thief*).
-* **Fuel:** Huge fan of hotdogs.
+* **Food:** Huge fan of hotdogs.
 * **Companions:** I have a cat.
