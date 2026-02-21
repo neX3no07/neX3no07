@@ -12,7 +12,6 @@ My current primary focus is **C# Backend Development**. I am actively leveling u
 #### 🚀 Current Execution Thread
 * Deepening C# backend knowledge and writing clean code.
 * Co-developing the indie games with my team.
-* Managing and configuring personal game servers (e.g., Minecraft).
 
 #### ⚡ Fun Facts
 * **Sports:** Basketball.
