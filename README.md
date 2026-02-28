@@ -1,21 +1,24 @@
-## Hey there 👋
+### Hey there 👋
 
 I'm **neX3no** (Andrew), a 2nd-year Computer Science student at Inha University in Tashkent.
 
-My current primary focus is **C# Backend Development**. I am actively leveling up my architecture and server-side logic skills, with a hard deadline to secure a backend internship by Summer 2026.
+My current primary focus is **Python Development and Machine Learning**. I am actively leveling up my knowledge in Python Core, Data Structures, and Algorithms, with a goal to secure a Python internship by Spring 2026.
 
 #### Tech Stack & Tools
-* **Languages:** C#
-* **GameDev:** Unity
-* **Media:** CapCut
+* **Languages:** Python
+* **Data & ML Focus:** NumPy, Pandas, Scikit-learn (in progress)
+* **Infrastructure & Tools:** Git, Docker, SQL, Linux (Server Management)
+* **Organization:** Notion
 
 #### Current Execution Thread
-* Deepening C# backend knowledge and writing clean code.
-* Co-developing the indie games with my team.
+* Deepening Python knowledge (OOP, Clean Code) and solving NeetCode algorithms.
+* Developing a CLI Data Parser with automated logging and data extraction.
+* Expanding mathematics foundations (Algebra, Precalculus).
+* Looking forward to building a production-ready ML service (planning to use gameplay data from my completed indie game *Metro Anomaly*).
 
 #### Fun Facts
-* **Sports:** Basketball.
-* **Gaming:** Life is Strange.
+* **Sports:** Basketball (usually on Sundays).
+* **Gaming:** Life is Strange, The Witcher 3.
 * **Hobbies:** Anime, manga, reading (currently: *The Book Thief*).
 * **Food:** Huge fan of hotdogs.
 * **Companions:** I have a cat.
