@@ -7,7 +7,7 @@ My current primary focus is **Python Development and Machine Learning**. I am ac
 #### Tech Stack & Tools
 * **Languages:** Python
 * **Data & ML Focus:** NumPy, Pandas, Scikit-learn (in progress)
-* **Infrastructure & Tools:** Git, Docker, SQL, Linux (Server Management)
+* **Infrastructure & Tools:** Git, Docker, SQL
 * **Organization:** Notion
 
 #### Current Execution Thread
