@@ -17,7 +17,7 @@ My current primary focus is **Python Development and Machine Learning**. I am ac
 * Looking forward to building a production-ready ML service (planning to use gameplay data from my completed indie game *Metro Anomaly*).
 
 #### Fun Facts
-* **Sports:** Basketball (usually on Sundays).
+* **Sports:** Basketball .
 * **Gaming:** Life is Strange, The Witcher 3.
 * **Hobbies:** Anime, manga, reading (currently: *The Book Thief*).
 * **Food:** Huge fan of hotdogs.
